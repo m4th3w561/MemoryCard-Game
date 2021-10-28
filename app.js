@@ -58,7 +58,7 @@ const cardGenerator = () => {
         });
     });
 };
-//Check cards
+// Check cards
 const checkCards = (e) => {
     const clickedCard = e.target;
     clickedCard.classList.add('flipped');

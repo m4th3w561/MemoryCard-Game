@@ -41,7 +41,7 @@ section{
 
 .back {
   background-color: white;
-  backface-visibility: hidden;
+  backface-visibility: hidden; 
 }
 
 .toggleCard {
